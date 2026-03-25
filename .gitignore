@@ -12,7 +12,9 @@ dist/
 .venv/
 venv/
 env/
-
+.archtecture.md
+.prd.md
+.roadmap.md
 # Tool caches
 .pytest_cache/
 .mypy_cache/
